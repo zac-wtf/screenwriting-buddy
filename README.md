@@ -159,7 +159,7 @@
 | [观看过程与反馈诊断](skills/screenwriting-buddy/references/viewer-review.md) | 审读、不好看诊断与针对性修改 |
 | [使用示例](examples/README.md) | 三种常见任务的输入与协作示范 |
 | [反馈与贡献](CONTRIBUTING.md) | 怎样提供有用反馈、建议规则修改 |
-| [更新记录](CHANGELOG.md) | 已发布版本与尚未发版的仓库更新 |
+| [更新记录](CHANGELOG.md) | 各版本的修改与仓库更新 |
 
 ## 反馈与后续完善
 
