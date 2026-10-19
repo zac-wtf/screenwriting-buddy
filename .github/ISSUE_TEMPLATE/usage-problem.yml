@@ -1,0 +1,35 @@
+name: 使用问题
+description: 安装、调用或协作方式出现了具体偏差
+title: "[使用问题] "
+body:
+  - type: markdown
+    attributes:
+      value: "感谢反馈。Issue 公开可见，请仅使用有权公开的短片段，并移除个人信息。"
+  - type: input
+    id: environment
+    attributes:
+      label: 使用版本与客户端
+      description: 不清楚版本时可以写“不确定”。
+      placeholder: 例如：v0.1.0，Codex 桌面端，macOS
+    validations:
+      required: true
+  - type: textarea
+    id: request
+    attributes:
+      label: 你想完成什么，以及输入了什么
+      description: 提供最小必要片段即可，无需上传完整剧本。
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: 实际发生了什么
+      description: 可附一小段回答、错误信息或脱敏截图。
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 你期望怎样合作
+    validations:
+      required: true

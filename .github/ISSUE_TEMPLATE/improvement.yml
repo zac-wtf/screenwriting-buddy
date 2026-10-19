@@ -1,0 +1,26 @@
+name: 改进建议
+description: 用具体任务说明一个值得改进的地方
+title: "[建议] "
+body:
+  - type: markdown
+    attributes:
+      value: "建议可以从一个具体创作任务开始。请仅分享有权公开的材料。"
+  - type: textarea
+    id: scenario
+    attributes:
+      label: 什么情况下需要这个改进
+      description: 描述一个实际场景，以及当前合作哪里不够好。
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 希望怎样改进
+      description: 可以提供短示例，或说明需要保留的行为。
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 可选的对照或反馈
+      description: 如有改稿前后、作者反馈或实际使用记录，请说明来源与适用范围。

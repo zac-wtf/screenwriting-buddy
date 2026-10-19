@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-labelledby="title desc">
+  <title id="title">剧本创作搭子</title>
+  <desc id="desc">一个点子，一起把它写成戏。一次一个关键问题，陪你推演、写稿与改稿。右侧用剧本纸张展示：人物想要什么，观众在等什么，这一条如何兑现。</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="1280" height="480" rx="24" fill="#1d2028"/>
+  <rect width="1280" height="480" rx="24" fill="url(#grid)"/>
+  <path d="M64 66h28" stroke="#d3ee86" stroke-width="6"/>
+  <text x="106" y="74" fill="#d3ee86" font-size="22" font-family="PingFang SC,Microsoft YaHei,sans-serif" letter-spacing="3">剧本创作搭子</text>
+  <g fill="#f7f4e9" font-family="PingFang SC,Microsoft YaHei,sans-serif" font-size="66" font-weight="600">
+    <text x="60" y="185">一个点子，</text>
+    <text x="60" y="274">一起把它写成戏。</text>
+  </g>
+  <text x="64" y="335" fill="#b6bbc4" font-size="22" font-family="PingFang SC,Microsoft YaHei,sans-serif">一次一个关键问题，陪你推演、写稿与改稿。</text>
+  <rect x="64" y="387" width="180" height="36" rx="18" fill="#d3ee86"/>
+  <text x="154" y="411" text-anchor="middle" fill="#20242c" font-size="16" font-family="PingFang SC,Microsoft YaHei,sans-serif">吸引力优先 · 人来定稿</text>
+  <text x="267" y="411" fill="#969da9" font-size="16" font-family="ui-monospace,monospace" letter-spacing="1">SCREENWRITING BUDDY</text>
+  <rect x="858" y="81" width="330" height="328" rx="12" fill="#11141b" transform="rotate(6 1023 245)"/>
+  <g transform="rotate(3 1014 238)">
+    <rect x="848" y="64" width="330" height="336" rx="10" fill="#f4f0e4"/>
+    <rect x="848" y="64" width="330" height="48" rx="10" fill="#d3ee86"/>
+    <rect x="848" y="96" width="330" height="16" fill="#d3ee86"/>
+    <circle cx="873" cy="88" r="4" fill="#2f3930"/>
+    <text x="890" y="94" fill="#30362b" font-family="ui-monospace,monospace" font-size="14" letter-spacing="2">SCENE 01 / DRAFT</text>
+    <g font-family="PingFang SC,Microsoft YaHei,sans-serif" fill="#343a42">
+      <text x="876" y="157" font-size="15" fill="#86877c">先找到值得等待的事情</text>
+      <text x="876" y="203" font-size="22" font-weight="600">人物想要什么？</text>
+      <path d="M876 224h272" stroke="#d3cebf"/>
+      <text x="876" y="265" font-size="22" font-weight="600">观众在等什么？</text>
+      <path d="M876 286h272" stroke="#d3cebf"/>
+      <text x="876" y="327" font-size="22" font-weight="600">这一条如何兑现？</text>
+      <text x="876" y="373" font-size="14" fill="#86877c">创意 → 推演 → 写稿 → 诊断 → 改稿</text>
+    </g>
+  </g>
+</svg>
